@@ -149,7 +149,7 @@ class CalcViewController: UIViewController {
     }
     
     func NonDecimalOperators( Op: String ) {
-        
+         
         if EquationFlag && Operator != Op || EquationFlag && Operator == Op {
             
             if Operator == "/" {

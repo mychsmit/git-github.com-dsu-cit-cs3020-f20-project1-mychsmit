@@ -307,7 +307,7 @@ MychalDevin</string>
                                         </connections>
                                     </button>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nTK-tk-6X8">
-                                        <rect key="frame" x="92" y="551" width="230" height="217"/>
+                                        <rect key="frame" x="92" y="554" width="230" height="214"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <fontDescription key="fontDescription" name="BoxingBrophius" family="Boxing Brophius" pointSize="36"/>
                                         <nil key="textColor"/>
